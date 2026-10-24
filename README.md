@@ -45,7 +45,7 @@ BookNest is an interactive web application that helps users organize their perso
 This version stores books in memory only. The list resets when the page is refreshed. Permanent browser storage can be added as a future enhancement.
 
 ## Live Application
-The live application link will be added after GitHub Pages deployment is configured and verified.
+[Open Book Reading List Application](https://yash25bcon1989-glitch.github.io/book-reading-list-application/)
 
 ## Conclusion
 The Book Reading List Application demonstrates how HTML, CSS, and JavaScript can be used to create an interactive application with input validation, searching, filtering, status management, deletion, and dynamic summary counts.
